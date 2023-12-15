@@ -4,7 +4,7 @@ Made in Marseille
 
 @author: Raphael
 """
-#email : raphael.attias@laplateforme.io
+# email : raphael.attias@laplateforme.io
 
 import tkinter as tk
 import json
