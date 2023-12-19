@@ -17,3 +17,9 @@ Ce projet propose un décodeur de messages en code Morse avec une interface grap
 
 - Python 3.x
 - Tkinter (généralement inclus dans les installations Python standard)
+  
+---
+
+**Made in Marseille**
+
+*Contact:* [raphael.attias@laplateforme.io](mailto:raphael.attias@laplateforme.io)
